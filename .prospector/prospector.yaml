@@ -1,0 +1,6 @@
+mypy:
+  run: true
+
+pylint:
+  disable:
+    - too-many-locals
