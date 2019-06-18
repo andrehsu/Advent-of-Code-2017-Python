@@ -12,6 +12,7 @@ prospector = "*"
 [packages]
 numba = "*"
 numpy = "*"
+llvmlite = "==0.29.0"
 
 [requires]
 python_version = "3.7"
