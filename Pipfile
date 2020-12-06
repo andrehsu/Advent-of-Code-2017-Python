@@ -4,15 +4,11 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-mypy = "*"
-yapf = "*"
-rope = "*"
-prospector = "*"
+
 
 [packages]
 numba = "*"
-numpy = "*"
-llvmlite = "==0.29.0"
+numpy = "==1.19.3"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
